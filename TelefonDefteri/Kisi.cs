@@ -5,11 +5,8 @@ using System.Text;
 
 namespace TelefonDefteri
 {
-    class Program
+    public class Kisi
     {
-        static void Main(string[] args)
-        {
-            // Kodlama yapıldı ...
-        }
+        // Properties ..
     }
 }
